@@ -1,0 +1,25 @@
+{
+  "name": "evaluacion",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "nodemon",
+    "npm",
+    "middleware"
+  ],
+  "author": "Devormar",
+  "license": "ISC",
+  "description": "Practica evaluable en nodeJs con express y peticiones simuladas a BD",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
